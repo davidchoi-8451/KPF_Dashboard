@@ -6,5 +6,6 @@ Confluence Link: https://kroger.atlassian.net/wiki/spaces/8451PLDSR/pages/992511
 Absolute IROAS:
 - Starting April 2026, the KPF Dashboard’s Closed Loop tab now applies Absolute methodology to all 2025+ campaigns. This standardizes reporting by factoring in the cost of fuel redemptions, offering a more relevant look at the true uplift and incremental return on dollar spent. IROAS automation is separated by notebook in the Absolute folder, with each channel type (offsite, REM SSE PUSH, TDC, DISP, ect) being handled separately. 
 - In 2026, with the deprecation of XCM and introduction to Single Channel, each automation notebook was further modified to take into account both KPM_Duplicated_ID, KPM_Project_ID, and redemption offer codes for every campaign (sourced from KPF intake tab in the master tracker).
+- Refer to P&LS confluence link for more information on automation process / calculations.
 
 
